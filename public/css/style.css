@@ -1,0 +1,8 @@
+.Post{
+    min-height: 50vh;
+}
+.profile-pic{
+    width: 6vh;
+    height: 6vh;
+    border-radius: 50vh;
+}
